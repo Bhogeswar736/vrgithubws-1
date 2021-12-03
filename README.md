@@ -11,4 +11,4 @@
 
 ***Italic and bold***
 
-~~this is a strike
+~~this is a strike~~
